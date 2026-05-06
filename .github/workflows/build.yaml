@@ -13,3 +13,5 @@ jobs:
       contents: write
       packages: write
       checks: write
+
+      additional-release-branches: "main-1.32"
